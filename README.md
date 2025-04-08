@@ -1,1 +1,3 @@
 # Big_Data_Pipeline_Design_ForRealTimeDataAnalytics
+Proficiency in VS Code is a comprehensive collection of Data Science and Machine Learning practical implementations using Python in Visual Studio Code. This repository encompasses a range of experiments, including statistical tests, regression algorithms, Naive Bayes classification, confusion matrix analysis, and applications using the Weka tool. It serves as a hands-on resource for developing expertise in data analysis, model building, and evaluation techniques, making it ideal for learners and practitioners aiming to strengthen their practical skills in the field.
+
